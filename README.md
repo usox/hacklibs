@@ -15,6 +15,7 @@ Testing
   for phpunit)
 - [hackmock](https://github.com/usox/hackmock) - Mock objects for hacklang
 - [fbexpect](https://github.com/hhvm/fbexpect) - A Hack library for writing unit tests expressively
+- [zynga hhvm phpunit](https://github.com/zynga/zynga-hhvm-phpu) - HHVM support for the PHP Unit Testing framework
 
 Code analysis / manipulation
 --------------------------
@@ -36,6 +37,7 @@ Framework
 - [sharesta](https://github.com/usox/sharesta) - Sharesta (Strict HAck RESTful Apis) is a micro framework to build simple and easy to use rest-like applications
 - [hack router](https://github.com/hhvm/hack-router) - Request routing for HackLang
 - [heredity](https://github.com/nazg-hack/heredity) - Middleware Dispatcher For Hack
+- [zynga-hacklang-framework](https://github.com/zynga/zynga-hacklang-framework) - This is a collection of libraries that Zynga uses to enable hacklang strict usage.
 
 
 Tools
