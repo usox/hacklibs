@@ -50,4 +50,5 @@ Tools
 - [hcache](https://github.com/nazg-hack/framework) - Nazg Cache Component For HHVM/Hack
 - [hh clilib](https://github.com/hhvm/hh-clilib) - Command Line Interface (CLI) Library for the Hack programming language
 - [publisher](https://github.com/hhpack/publisher) - Implementation of Pub/Sub for Hack
-- [hhvm autoload](https://github.com/hhvm/hhvm-autoload) - Autoload classes, functions, enums, constants, and typedefs on HHVM
+- [hhvm-autoload](https://github.com/hhvm/hhvm-autoload) - Autoload classes, functions, enums, constants, and typedefs on HHVM
+- [proto-hack](https://github.com/y3llowcake/proto-hack) - hacklang generator for protobuf
