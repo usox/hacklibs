@@ -52,3 +52,4 @@ Tools
 - [publisher](https://github.com/hhpack/publisher) - Implementation of Pub/Sub for Hack
 - [hhvm-autoload](https://github.com/hhvm/hhvm-autoload) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [proto-hack](https://github.com/y3llowcake/proto-hack) - hacklang generator for protobuf
+- [fbshipit](https://github.com/facebook/fbshipit) - Copy commits between repositories - git => git, git => hg, hg => hg, or hg => git
