@@ -52,3 +52,4 @@ Tools
 - [hhvm-autoload](https://github.com/hhvm/hhvm-autoload) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [proto-hack](https://github.com/y3llowcake/proto-hack) - hacklang generator for protobuf
 - [fbshipit](https://github.com/facebook/fbshipit) - Copy commits between repositories - git => git, git => hg, hg => hg, or hg => git
+- [difflib](https://github.com/hhvm/difflib) - Functions and classes for calculating the differences between two sequences of items.
