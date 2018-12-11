@@ -28,7 +28,6 @@ Database / ORM
 --------------
 
 - [migrate](https://github.com/hhpack/migrate) - Database migration tool for Hack
-- [hadb](https://github.com/usox/hadb) - Query sql databases using hack in strict mode
 - [harm](https://github.com/usox/harm) - Active record/Table data gateway hybrid for hack strict mode
 
 Framework
@@ -39,6 +38,8 @@ Framework
 - [heredity](https://github.com/nazg-hack/heredity) - Middleware Dispatcher For Hack
 - [zynga-hacklang-framework](https://github.com/zynga/zynga-hacklang-framework) - This is a collection of libraries that Zynga uses to enable hacklang strict usage.
 - [hh clilib](https://github.com/hhvm/hh-clilib) - Command Line Interface (CLI) Library for the Hack programming language
+- [hackttp](https://github.com/usox/hackttp) - PSR7-like http request/response management
+- [waffle](https://github.com/azjezz/waffle) - Hack framework for building web applications with expressive, elegant syntax.
 
 Tools
 -----
