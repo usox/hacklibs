@@ -39,7 +39,7 @@ Framework
 - [zynga-hacklang-framework](https://github.com/zynga/zynga-hacklang-framework) - This is a collection of libraries that Zynga uses to enable hacklang strict usage.
 - [hh clilib](https://github.com/hhvm/hh-clilib) - Command Line Interface (CLI) Library for the Hack programming language
 - [hackttp](https://github.com/usox/hackttp) - PSR7-like http request/response management
-- [waffle](https://github.com/azjezz/waffle) - Hack framework for building web applications with expressive, elegant syntax.
+- [nuxed](https://github.com/nuxed) - Hack framework for building web applications with expressive, elegant syntax.
 
 Tools
 -----
@@ -55,3 +55,4 @@ Tools
 - [fbshipit](https://github.com/facebook/fbshipit) - Copy commits between repositories - git => git, git => hg, hg => hg, or hg => git
 - [difflib](https://github.com/hhvm/difflib) - Functions and classes for calculating the differences between two sequences of items.
 - [glue](https://github.com/nazg-hack/glue) - LightWeight Dependency Injection Container For HHVM/Hack
+- [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files. 
