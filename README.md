@@ -39,7 +39,7 @@ Framework
 - [zynga-hacklang-framework](https://github.com/zynga/zynga-hacklang-framework) - This is a collection of libraries that Zynga uses to enable hacklang strict usage.
 - [hh clilib](https://github.com/hhvm/hh-clilib) - Command Line Interface (CLI) Library for the Hack programming language
 - [hackttp](https://github.com/usox/hackttp) - PSR7-like http request/response management
-- [nuxed](https://github.com/nuxed) - Hack framework for building web applications with expressive, elegant syntax.
+- [Nuxed](https://github.com/nuxed/nuxed) - Hack framework for building web applications with expressive, elegant syntax.
 
 Tools
 -----
@@ -55,4 +55,7 @@ Tools
 - [fbshipit](https://github.com/facebook/fbshipit) - Copy commits between repositories - git => git, git => hg, hg => hg, or hg => git
 - [difflib](https://github.com/hhvm/difflib) - Functions and classes for calculating the differences between two sequences of items.
 - [glue](https://github.com/nazg-hack/glue) - LightWeight Dependency Injection Container For HHVM/Hack
-- [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files. 
+- [Nuxed Asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.
+- [Nuxed IO](https://github.com/nuxed/io) - The Nuxed IO component provides classes that interact with input and output of data on the local filesystem. 
+- [Nuxed Container](https://github.com/nuxed/container) - The Nuxed Container is a simple but powerful dependency injection container. 
+- [Nuxed Event](https://github.com/nuxed/event) - The Nuxed Event component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
