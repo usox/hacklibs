@@ -59,3 +59,4 @@ Tools
 - [Nuxed IO](https://github.com/nuxed/io) - The Nuxed IO component provides classes that interact with input and output of data on the local filesystem. 
 - [Nuxed Container](https://github.com/nuxed/container) - The Nuxed Container is a simple but powerful dependency injection container. 
 - [Nuxed Event](https://github.com/nuxed/event) - The Nuxed Event component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
+- [Sweet](https://github.com/azjezz/sweet) - Sweet ! a strict typed hack service container and locator.
