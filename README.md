@@ -56,7 +56,8 @@ Tools
 - [difflib](https://github.com/hhvm/difflib) - Functions and classes for calculating the differences between two sequences of items.
 - [glue](https://github.com/nazg-hack/glue) - LightWeight Dependency Injection Container For HHVM/Hack
 - [Nuxed Asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.
-- [Nuxed IO](https://github.com/nuxed/io) - The Nuxed IO component provides classes that interact with input and output of data on the local filesystem. 
-- [Nuxed Container](https://github.com/nuxed/container) - The Nuxed Container is a simple but powerful dependency injection container. 
+- [Nuxed IO](https://github.com/nuxed/io) - The Nuxed IO component provides classes that interact with input and output of data on the local filesystem.
+- [Nuxed Container](https://github.com/nuxed/container) - The Nuxed Container is a simple but powerful dependency injection container.
 - [Nuxed Event](https://github.com/nuxed/event) - The Nuxed Event component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
 - [Sweet](https://github.com/azjezz/sweet) - Sweet ! a strict typed hack service container and locator.
+- [html2text](https://github.com/usox/html2text) - Convert HTML in plain text format.
