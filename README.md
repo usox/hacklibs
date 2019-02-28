@@ -61,3 +61,4 @@ Tools
 - [Nuxed Event](https://github.com/nuxed/event) - The Nuxed Event component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
 - [Sweet](https://github.com/azjezz/sweet) - Sweet ! a strict typed hack service container and locator.
 - [html2text](https://github.com/usox/html2text) - Convert HTML in plain text format.
+- [hhvm-logging](https://github.com/ytake/hack-logging) - A logger written in hacklang.
