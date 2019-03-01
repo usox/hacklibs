@@ -62,3 +62,4 @@ Tools
 - [Sweet](https://github.com/azjezz/sweet) - Sweet ! a strict typed hack service container and locator.
 - [html2text](https://github.com/usox/html2text) - Convert HTML in plain text format.
 - [hhvm-logging](https://github.com/ytake/hack-logging) - A logger written in hacklang.
+- [mutex](https://github.com/azjezz/mutex) - [Mutex locking](https://en.wikipedia.org/wiki/Mutual_exclusion) for hack projects.
