@@ -15,7 +15,7 @@ Testing
   for phpunit)
 - [hackmock](https://github.com/usox/hackmock) - Mock objects for hacklang
 - [fbexpect](https://github.com/hhvm/fbexpect) - A Hack library for writing unit tests expressively
-- [zynga hhvm phpunit](https://github.com/zynga/zynga-hhvm-phpu) - HHVM support for the PHP Unit Testing framework
+- [zynga hhvm phpunit](https://github.com/zynga/zynga-hhvm-phpunit) - HHVM support for the PHP Unit Testing framework
 
 Code analysis / manipulation
 --------------------------
